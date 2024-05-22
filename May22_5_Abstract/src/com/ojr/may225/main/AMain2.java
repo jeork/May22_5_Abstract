@@ -35,13 +35,13 @@ public class AMain2 {
 		// 운전 O
 		
 
-
-		Ironman i = new Ironman("토니", 40, 4400 ); 
-			
-		i.print_info();
-		i.attack();
-		i.drive();
-		i.smoke();
+//
+//		Ironman i = new Ironman("토니", 40, 4400 ); 
+//			
+//		i.print_info();
+//		i.attack();
+//		i.drive();
+//		i.smoke();
 
 	}
 }

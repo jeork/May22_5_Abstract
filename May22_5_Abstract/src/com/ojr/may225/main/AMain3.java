@@ -10,15 +10,15 @@ import com.ojr.may225.avengers.Ironman;
 
 public class AMain3 {
 	// 아이언맨 담는 그릇 i 에 아이언맨 만들어 넣음
-	Ironman i = new Ironman() {
-	};
+//	Ironman i = new Ironman() {
+//	};
 	
 	// 어벤져스 담는 그릇 a 에 아이언맨 만들어 넣음
-	Avengers a = new Ironman() ;
-
-	// 다형성을 통해서 코드의 유연성과 확장성이 증가
-	
-	a.attack();
+//	Avengers a = new Ironman() ;
+//
+//	// 다형성을 통해서 코드의 유연성과 확장성이 증가
+//	
+//	a.attack();
 	//a는 Avengers 타입인데, 실제로는 Ironman 객체를 참조하고 있음
 	// Ironman 클래스에서 오버라이딩 된 attack()메소드를 호출했는데
 	// 이 결과 다형성과 오버라이딩이 밀접한 관련이 있음
