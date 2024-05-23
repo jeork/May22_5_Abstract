@@ -12,6 +12,14 @@ public class AMain3 {
 	// 아이언맨 담는 그릇 i 에 아이언맨 만들어 넣음
 //	Ironman i = new Ironman() {
 //	};
+	Ironman i = new Ironman() {
+		
+		@Override
+		public void Attack() {
+			// TODO Auto-generated method stub
+			
+		}
+	};
 	
 	// 어벤져스 담는 그릇 a 에 아이언맨 만들어 넣음
 //	Avengers a = new Ironman() ;
